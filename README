@@ -1,0 +1,4 @@
+# install-stremio
+Stremio is a cross-platform media management software that acts as a one-stop hub for video content aggregation. Just like Kodi and Plex.
+Download this script and run it to install stremio
+sudo sh install-stremio.sh
